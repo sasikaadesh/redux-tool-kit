@@ -1,0 +1,60 @@
+UX Disciplines:
+
+User Research (UX Researches)
+- Business objectives
+- To know who the Target Audience is
+- What are there needs and Goals
+- What are the pain points/ frustrations
+
+User Research Methods:
+- Syurveys
+- User interviews
+- User Persona creation
+-------------------------
+- User Interaction design
+
+- Information Architecture
+    - 
+
+=======================================
+
+UX Design Process:
+01- User Research (UX Researches)
+- Business objectives (Understanding the Business, 
+What Problems the company is trying to solve, do they have an existing system
+prepare a PRD document..etc.)
+- To know who the Target Audience is
+- What are there needs and Goals
+- What are the user problems/pain points/ frustrations
+
+User Research Methods:
+- Syurveys
+- User interviews
+- Industry Trends
+- Competitor Analysis (Market Research)
+- Current website/application analysis
+- User Persona creation
+
+02- Brainstorm/ Analysis & Planning/ Ideate
+
+In the planning phase, designers take all of the information 
+they gathered in the research stage and start to plan out how 
+they’ll meet those needs. 
+
+This is also the time when designers start to think about how the 
+product will be built and what technologies will be necessary. 
+They develop a roadmap for the project and start to establish Milestones.
+- User Flows/ User Journey Maps
+- You can use paper wireframing
+
+03- Design/ Prototype
+- Low Fidelity Wireframes
+- High Fidelity mockups/ prototypes
+- Will consider Information Architecture, Navigation, Layout
+  Accessibility
+  
+04- User Testing
+- Qualitative & Quantitative 
+- Moderate and 
+- AB Testing
+
